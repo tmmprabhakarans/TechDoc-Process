@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documentation on TechDoc_process</title>
+    <link>/procedure/technical-documentation/index.html</link>
+    <description>Recent content in Technical Documentation on TechDoc_process</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Mar 2023 12:51:53 +0530</lastBuildDate><atom:link href="/procedure/technical-documentation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Levels</title>
+      <link>/procedure/technical-documentation/levels/index.html</link>
+      <pubDate>Wed, 22 Mar 2023 12:51:53 +0530</pubDate>
+      <guid>/procedure/technical-documentation/levels/index.html</guid>
+      <description>1. Initial/Preparation stage: Based on the Tech Doc request, gather all the inputs required to create the document. Identify the document type and organize the folder structure. Liase with SMEs and stakeholders to collect all available inputs. Have a Q&amp;amp;A session with SME to clarify any doubts. 2. Version Control System: VCS is a software designed to help team collaborate and work in parallel. Git is distributed version control software. Version control is a way to save changes over time without overwriting previous versions.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technical Documentation Process Flow on TechDoc_process</title>
+    <link>/index.html</link>
+    <description>Recent content in Technical Documentation Process Flow on TechDoc_process</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Mar 2023 12:51:53 +0530</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Workflow</title>
+      <link>/workflow/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/workflow/index.html</guid>
+      <description> </description>
+    </item>
+    <item>
+      <title>Purpose</title>
+      <link>/intro/index.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/intro/index.html</guid>
+      <description>The purpose of this document is to explain the process flow carried out in Technical Documentation team at Metamation.</description>
+    </item>
+    <item>
+      <title>Procedure</title>
+      <link>/procedure/index.html</link>
+      <pubDate>Wed, 22 Mar 2023 12:32:09 +0530</pubDate>
+      <guid>/procedure/index.html</guid>
+      <description>Input Channel: Any new documentation request is raised in Fogbugz, the same is notified to the Tech Doc team using Fogbugz cases. Fogbugz is a project management tool used at Metamation. Create a new case in Fogbugz to initiate a document creation process. To create a case, get necessary approval and access to use Fogbugz. Contact sanjiv@metamation.com Responsibility: Technical Writer
+CRM: CRM along with TechDoc is responsible for delivering the documents to customer on time and to collect feedback on document quality.</description>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Procedure on TechDoc_process</title>
+    <link>/procedure/index.html</link>
+    <description>Recent content in Procedure on TechDoc_process</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 22 Mar 2023 12:32:09 +0530</lastBuildDate><atom:link href="/procedure/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Technical Documentation</title>
+      <link>/procedure/technical-documentation/index.html</link>
+      <pubDate>Wed, 22 Mar 2023 12:51:53 +0530</pubDate>
+      <guid>/procedure/technical-documentation/index.html</guid>
+      <description>The Technical Documentation system at Metamation can be divided into three levels. They are: Level 1 - Initial/Preparation stage
+Level 2 - Version Control System
+Level 3 - Editorial and Publishing System</description>
+    </item>
+  </channel>
+</rss>

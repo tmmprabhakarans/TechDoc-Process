@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>/procedure/technical-documentation/index.html</loc>
+    <lastmod>2023-03-22T12:51:53+05:30</lastmod>
+  </url>
+  <url>
+    <loc>/workflow/index.html</loc>
+  </url>
+  <url>
+    <loc>/procedure/technical-documentation/levels/index.html</loc>
+    <lastmod>2023-03-22T12:51:53+05:30</lastmod>
+  </url>
+  <url>
+    <loc>/intro/index.html</loc>
+  </url>
+  <url>
+    <loc>/index.html</loc>
+    <lastmod>2023-03-22T12:51:53+05:30</lastmod>
+  </url>
+  <url>
+    <loc>/procedure/index.html</loc>
+    <lastmod>2023-03-22T12:32:09+05:30</lastmod>
+  </url>
+  <url>
+    <loc>/categories/index.html</loc>
+  </url>
+  <url>
+    <loc>/tags/index.html</loc>
+  </url>
+</urlset>
