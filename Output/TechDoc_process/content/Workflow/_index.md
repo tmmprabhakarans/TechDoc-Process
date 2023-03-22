@@ -1,7 +1,7 @@
 +++
 archetype = "chapter"
-title = "Workflow"
+title = "Process Flow"
 weight = 1
 +++
 
-![work_flow](/images/work_flow.png)
+![images/Processflow_3](/images/Processflow_3.png)
